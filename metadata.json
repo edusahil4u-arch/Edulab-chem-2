@@ -1,0 +1,6 @@
+{
+  "name": "ValenceLab",
+  "description": "Interactive theoretical chemistry lab for drawing 2D molecular structures and synthesizing real-time 3D VSEPR models with Gemini intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
